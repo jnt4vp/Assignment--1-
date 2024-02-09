@@ -1,0 +1,1 @@
+To use the program, compile it, and then select from the options 1-5. Use 5 to exit the program.
